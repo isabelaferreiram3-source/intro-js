@@ -48,7 +48,7 @@ console.log(7 > 9)
 console.log(7 > 2)
 console.log(7 > 7)
 
-console.log("-----------------------")
+console.log( "-----------------------" ) 
 
 // 6 - < menor que
 // esse operador serve pra avaliar se um determinado valor é menor que o outro
